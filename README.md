@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![React](https://img.shields.io/badge/REACT-brightgreen)
+![Typescript](https://img.shields.io/badge/TYPESCRIPT-yellowgreen)
+![ReactRouter](https://img.shields.io/badge/REACT_ROUTER-orange)
+![NextJS](https://img.shields.io/badge/NEXTJS-red)
+![ReactQuery](https://img.shields.io/badge/REACTQUERY-BLUE)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_Css-blueviolet)
