@@ -1,4 +1,4 @@
-😄 개발스택
+## 😄 Tech Stack
 
 ![React](https://img.shields.io/badge/Reactr-brightgreen)
 ![Typescript](https://img.shields.io/badge/TypeScript-yellowgreen)
