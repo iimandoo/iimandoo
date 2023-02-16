@@ -12,4 +12,4 @@
 1. Youtube CSR clone
   -> React, ReactRouter, Typescript, TailwindCSS
 2. Youtube SSR clone
-  -> React, NextJS, Typesscript, TailwindCSSS
+  -> React, NextJS, Typesscript, TailwindCSS
