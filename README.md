@@ -1,11 +1,14 @@
 # :fire: Tech Stack
 
 ![React](https://img.shields.io/badge/React-brightgreen)
-![Typescript](https://img.shields.io/badge/TypeScript-yellowgreen)
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-orange)
-![NextJS](https://img.shields.io/badge/NextJS-red)
+![NextJS](https://img.shields.io/badge/NextJS-orange)
+![Redux](https://img.shields.io/badge/TypeScript-red)
+![Typescript](https://img.shields.io/badge/TypeScript-yellowgreen)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-BLUE)
+![ReactHookForm](https://img.shields.io/badge/ReactQuery-BLUE)
 ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-blueviolet)
+![MUI](https://img.shields.io/badge/TailwindCSS-blueviolet)
 ![StyledComponent](https://img.shields.io/badge/StyledComponent-ff69b4)
 <br/><br/>
 
@@ -15,10 +18,13 @@
 <br/><br/>
 
 # :zap:About Repo.
-### Youtube CSR clone
+### Youtube clone [CSR]
 stack : React, ReactRouter, Typescript, TailwindCSS<br/>
 deploy : Netlify
 
-### Youtube SSR clone
+### Youtube clone [SSR]
 stack : React, NextJS, Typescript, TailwindCSS<br/>
 deploy : Vercel
+
+### KurlyAdmin clone [CSR]
+stack : React, ReactRouter, Typescript, ReactQuery, ReactHookForm, Redux, Mui<br/>
