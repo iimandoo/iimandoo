@@ -1,6 +1,6 @@
 # :fire: Tech Stack
 
-![React](https://img.shields.io/badge/React-brightgreen)
+![React](https://img.shields.io/badge/React-ff69b4)
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-orange)
 ![NextJS](https://img.shields.io/badge/NextJS-orange)
 ![Redux](https://img.shields.io/badge/Redux-red)
@@ -9,7 +9,7 @@
 ![ReactHookForm](https://img.shields.io/badge/ReactHookForm-BLUE)
 ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-blueviolet)
 ![MUI](https://img.shields.io/badge/MUI-blueviolet)
-![StyledComponent](https://img.shields.io/badge/StyledComponent-ff69b4)
+![StyledComponent](https://img.shields.io/badge/StyledComponent-blueviolet)
 <br/><br/>
 
 #  Deploy
