@@ -41,8 +41,6 @@
 | [**portfolio-agent**](https://github.com/iimandoo/portfolio-agent) | Claude Code 기반 포트폴리오 자동 생성 에이전트 | Claude Code, TypeScript |
 | [**zero-nyang**](https://github.com/iimandoo/zero-nyang) | 제로냥 프로젝트 | TypeScript |
 | [**ganghanja**](https://github.com/iimandoo/ganghanja) | 강한자 프로젝트 | TypeScript |
-| [**mts5-ui-component**](https://github.com/iimandoo/mts5-ui-component) | 마타수학 UI 컴포넌트 라이브러리 | TypeScript |
-| [**kurlyAdmin**](https://github.com/iimandoo/kurlyAdmin) | 컬리 어드민 클론 — React Query, Redux, MUI | TypeScript |
 
 ---
 
