@@ -1,4 +1,4 @@
-**Full-Side Engineer** — 기획 · 설계 · 개발을 아우르는 AI 기반 제품 엔지니어
+**Full-Side Engineer** — 기획 · 설계 · 개발을 아우르는 풀사이드 엔지니어
 
 EdTech, Commerce, Public Education 도메인에서
 전략 수립 → UX 설계 → 프론트엔드 아키텍처 → 구현 → 확장까지 제품의 전 과정을 주도합니다.
@@ -42,7 +42,7 @@ https://portfolio-jihyelee.vercel.app/
 | [**portfolio**](https://github.com/iimandoo/portfolio) | AI 기반 포트폴리오 사이트 — Style × Tone 다중 테마 | Next.js, TypeScript, Styled Components, Framer Motion |
 | [**portfolio-agent**](https://github.com/iimandoo/portfolio-agent) | Claude Code 기반 포트폴리오 자동 생성 에이전트 | Claude Code, TypeScript |
 | [**zero-nyang**](https://github.com/iimandoo/zero-nyang) | 제로냥 프로젝트 | TypeScript |
-| [**ganghanja**](https://github.com/iimandoo/ganghanja) | 쿨한자 프로젝트 | TypeScript |
+| [**coolhanja**](https://github.com/iimandoo/ganghanja) | 쿨한자 프로젝트 | TypeScript |
 
 ---
 
