@@ -1,5 +1,4 @@
-**Full-Side Engineer** — 기획 · 설계 · 개발을 아우르는 풀사이드 엔지니어
-
+**Full-Side Engineer** 
 EdTech, Commerce, Public Education 도메인에서
 전략 수립 → UX 설계 → 프론트엔드 아키텍처 → 구현 → 확장까지 제품의 전 과정을 주도합니다.
 
@@ -29,8 +28,8 @@ https://portfolio-jihyelee.vercel.app/
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-vertexAI
-Figma(Design & Make)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma_Design_&_Make-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ---
 
 ### 📂 Projects
