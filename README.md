@@ -3,6 +3,8 @@
 EdTech, Commerce, Public Education 도메인에서
 전략 수립 → UX 설계 → 프론트엔드 아키텍처 → 구현 → 확장까지 제품의 전 과정을 주도합니다.
 
+https://portfolio-jihyelee.vercel.app/
+
 ---
 
 ### 🛠 Tech Stack
