@@ -30,7 +30,8 @@ https://portfolio-jihyelee.vercel.app/
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VertexAI](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VertexAI](logo=VertexAI&logoColor=white)
+![Figma](logo=Figma&logoColor=white)
 ---
 
 ### 📂 Projects
