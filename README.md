@@ -36,9 +36,9 @@ https://portfolio-jihyelee.vercel.app/
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**jione-agent**](https://github.com/iimandoo/jione-agent) | Claude Code 기반 - portfolio와 transformer 사이트 구축 에이전트 | commands, agents |
 | [**jione-portfolio**](https://github.com/iimandoo/jione-portfolio) | AI 기반 포트폴리오 사이트 — Style × Tone 다중 테마 | Next.js, TypeScript, Styled Components, Framer Motion |
 | [**jione-transformer**](https://github.com/iimandoo/jione-transformer) | AI 기반 이력서 자동변환 서비스 
-| [**portfolio-agent**](https://github.com/iimandoo/portfolio-agent) | Claude Code 기반 포트폴리오 자동 생성 에이전트 | Claude Code, TypeScript |
 | [**zero-nyang**](https://github.com/iimandoo/zero-nyang) | 제로냥 프로젝트 | TypeScript |
 | [**coolhanja**](https://github.com/iimandoo/ganghanja) | 쿨한자 프로젝트 | TypeScript |
 
