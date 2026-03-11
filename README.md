@@ -47,4 +47,3 @@ https://portfolio-jihyelee.vercel.app/
 ### 📫 Contact
 
 - **Email:** euneundh@gmail.com
-- **Portfolio:** [jione-portfolio.vercel.app](https://jione-portfolio.vercel.app)
