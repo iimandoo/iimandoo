@@ -26,17 +26,18 @@ https://portfolio-jihyelee.vercel.app/
 **AI & Tools**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma_Design_&_Make-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ---
 
 ### 📂 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**portfolio**](https://github.com/iimandoo/portfolio) | AI 기반 포트폴리오 사이트 — Style × Tone 다중 테마 | Next.js, TypeScript, Styled Components, Framer Motion |
+| [**jione-portfolio**](https://github.com/iimandoo/jione-portfolio) | AI 기반 포트폴리오 사이트 — Style × Tone 다중 테마 | Next.js, TypeScript, Styled Components, Framer Motion |
+| [**jione-transformer**](https://github.com/iimandoo/jione-transformer) | AI 기반 이력서 자동변환 서비스 
 | [**portfolio-agent**](https://github.com/iimandoo/portfolio-agent) | Claude Code 기반 포트폴리오 자동 생성 에이전트 | Claude Code, TypeScript |
 | [**zero-nyang**](https://github.com/iimandoo/zero-nyang) | 제로냥 프로젝트 | TypeScript |
 | [**coolhanja**](https://github.com/iimandoo/ganghanja) | 쿨한자 프로젝트 | TypeScript |
